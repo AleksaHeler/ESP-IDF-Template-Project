@@ -1,0 +1,5 @@
+# Ignore the esp-idf generated folders
+build/
+sdkconfig
+sdkconfig.old
+.vscode
